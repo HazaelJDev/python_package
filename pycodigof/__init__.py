@@ -1,1 +1,1 @@
-from pycodigof.workshops import unreleased
+from pycodigof.workshops import unreleased, all

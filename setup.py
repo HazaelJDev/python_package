@@ -5,7 +5,7 @@ from setuptools import setup
 this_directory = Path(__file__).parent
 long_description = (this_directory / "README.md").read_text()
 
-VERSION = '0.0.2'
+VERSION = '0.0.3'
 DESCRIPTION = 'This package allows you to consume the EndPoint of CodigoFacilito workshops.'
 PACKAGE_NAME = 'pycodigof'
 AUTHOR = 'Hazael Jiménez'
